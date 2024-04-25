@@ -1,0 +1,16 @@
+#map-container{
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 70vh;
+    border: none;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+@media only screen and (max-width: 900px) {
+    #footer-wrapper{
+        margin: auto;
+        height: 70vh;
+    }
+}
