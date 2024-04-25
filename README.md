@@ -26,10 +26,9 @@ To get started with the Hostel Application System, follow these steps:
 ```bash
    cd hostel-application-system
    npm install
-
-   ```bash
    npm start
 
+```
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the Hostel Application System, please follow these guidelines:
 
