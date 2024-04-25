@@ -38,3 +38,10 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
+
+## Project Snippets
+
+![WhatsApp Image 2024-04-17 at 10 59 59 PM](https://github.com/karanx26/Hostel-Application-System/assets/112680487/95766668-d16b-49db-bc3c-e4fee064761e)
+
+
+
